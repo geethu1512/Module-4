@@ -1,4 +1,6 @@
 # 🔤 Dictionary-Python Program to Sort a Dictionary by Keys and Values
+## Name: GEETHU R
+## Register No.: 212224040089
 
 This Python program demonstrates how to sort a dictionary:
 - Alphabetically by keys
